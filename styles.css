@@ -17,6 +17,12 @@ h1 {
     margin-top: 0.3em;
     margin-bottom: 0.3em;
 }
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
 .header {
     padding: 20px;
   }
