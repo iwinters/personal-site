@@ -227,6 +227,14 @@ hr {
     opacity: 0;
     background-color: #ffffffe8;
 }
+.overlay-more {
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+    background-color: #ffffffe8;
+}
 
 .overlay-text h4 {
     padding: 0px;
